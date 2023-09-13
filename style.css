@@ -45,4 +45,7 @@
   #header {
     color: white;
   }
-  
+  .img-circle {
+    width: 100%;
+    height: auto;
+  }
