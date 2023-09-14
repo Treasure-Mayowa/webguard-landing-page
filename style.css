@@ -2,28 +2,27 @@
     margin: auto;
     text-align: center;
     align-content: center;
-    color:white;
   }
   
   body {
     margin: auto;
-    background-image: url("./resources/background.jpg");
+    background-color: white;
   }
   body button {
     margin: auto;
-    width: 50%;
+    width: 70%;
     border-radius: 15px;
     border: none;
     display: block;
-    height: 50px;
+    padding: 20px;
     background-color: #0A66C2;
     color: white;
   }
 
   body button:hover {
     background-color: blue;
-    width: 53%;
-    height: 52px;
+    width: 73%;
+    padding: 22px;
   }
   body div {
     padding: 2%;
@@ -32,20 +31,16 @@
     text-decoration: none;
     color: inherit;
   }
-  body h4 {
-    color: white;
-  }
-  
+
   footer {
     text-align: center;
-    color: white;
   }
   
   
   #header {
-    color: white;
+    color: black;
   }
   .img-circle {
-    width: 100%;
+    width: 70%;
     height: auto;
   }
