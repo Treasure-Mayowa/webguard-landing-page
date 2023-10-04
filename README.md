@@ -4,5 +4,5 @@ Webguard meticulously scans and analyzes lengthy privacy policies on websites, s
 
 Gain control over your online privacy effortlessly. Webguard empowers you with insights, and actionable recommendations, allowing you to make informed choices and protect your personal data.
 
-Access Webguard here: [Webguard Landing Page](cutt.ly/webguard)
+Access Webguard here: [Webguard Landing Page](https://cutt.ly/webguard)
 
